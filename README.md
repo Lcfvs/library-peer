@@ -1,4 +1,4 @@
-# library-peer
+# ![Logo](logo.svg) library-peer
 
 A badge for **NPM peer dependencies**.
 
